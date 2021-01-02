@@ -34,6 +34,7 @@ body {
 
 .instagram-phone img {
     height: 50rem;
+    width: auto;
 }
 
 .instagram-continue {
@@ -87,3 +88,4 @@ body {
     color: #0095f6;
     margin-top: 1rem;
 }
+
